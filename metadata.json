@@ -1,0 +1,6 @@
+{
+  "name": "SurveyEarn",
+  "description": "Survey rewards platform with admin dashboard and configuration controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
